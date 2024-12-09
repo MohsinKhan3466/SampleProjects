@@ -1,0 +1,1 @@
+{"uuid":"a655eaff-2bda-45d1-acf6-92b613eaa97d","name":"com.OPNCRT.base.BaseTest.setUp","children":["71aabd44-0847-413b-8db1-7c8f82830334"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733736299155,"stop":1733736303307}],"afters":[],"start":1733736299154,"stop":1733736303319}

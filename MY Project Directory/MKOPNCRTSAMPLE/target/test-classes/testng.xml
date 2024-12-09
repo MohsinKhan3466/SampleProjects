@@ -1,0 +1,10 @@
+<suite name="AutomationSuite">
+    <listeners>
+        <listener class-name="com.OPNCRT.listner.AllureListener" />
+    </listeners>
+    <test name="Login Tests">
+        <classes>
+            <class name="com.OPNCRT.test.LogInTest" />
+        </classes>
+    </test>
+</suite>
